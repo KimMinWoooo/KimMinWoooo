@@ -1,11 +1,12 @@
 
 
 ![header](https://capsule-render.vercel.app/api?
-type=rounded&color=timeGradient&text=Welcome%20to%20My%20GitHub%20👋
+type=rounded&color=timeGradient&text=Welcome%20to%20Minwoo's%20GitHub%20👋
 &animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
+<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimMinWoooo&show_icons=true&theme=radical)
+![Minwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimMinWoooo&show_icons=true&theme=radical)
 
 
 <br>
