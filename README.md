@@ -18,6 +18,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
   <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/NextUI-000000.svg?style=for-the-badge&logo=nextui&logoColor=#000000" />&nbsp
 </div>
 
 
