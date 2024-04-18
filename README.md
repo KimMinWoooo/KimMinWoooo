@@ -3,7 +3,7 @@
 
 
 
-![Minwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimMinWoooo&show_icons=true&theme=radical)&hide=stars,contribs
+![Minwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimMinWoooo&show_icons=true&theme=radical&hide=stars,contribs)
 
 
 <br>
