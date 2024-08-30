@@ -6,7 +6,7 @@
 ![Minwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimMinWoooo&show_icons=true&theme=radical&hide=stars,contribs)
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj={alsdn3396})](https://solved.ac/{alsdn3396}/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsdn3396)](https://solved.ac/alsdn3396/)
 
 
 <br>
