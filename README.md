@@ -12,7 +12,7 @@
 
 ## 👀 Introduce
 👩🏻‍💻 **Minwoo Kim** <br/>
-👨‍🎓 IT convergence major @Soongsil University.&nbsp; ( 2019.03 ~ )  <br/>
+👨‍🎓 IT convergence major @Soongsil University.&nbsp; ( 2019.03 ~ 2026.02 )  <br/>
 
 
 ## 🌱 Interests
