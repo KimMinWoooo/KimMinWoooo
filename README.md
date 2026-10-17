@@ -53,7 +53,7 @@
 
 | Place of activity | Place of activity Desc. | Role | Role Desc. | Period |
 | ------------ | ------------- | ------------- | ------------- | ------------- |
-| **Cloud Club** | Vendor-Neutral IT Infra Union | 7th Member | Cloud Study Member, Project | 2025.03 ~ |
+| **Cloud Club** | Vendor-Neutral IT Infra Union | 7th Member | Cloud Study Member, Project | 2025.03 ~ 2025.07 |
 | **Kakao Tech Bootcamp** | K-Digital Training | Cloud Native | Cloud Native 1st Graduate | 2024.07 ~ 2024.12 |
 
 
