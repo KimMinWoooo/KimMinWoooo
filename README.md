@@ -45,6 +45,12 @@
 | 제 8회 개방형 클라우드 플랫폼(K-PaaS)<br/>기반 서비스 개발 아이디어 공모전 | NHN Cloud Award(Special Award) | 2024.11 | OPA(Open cloud platform alliance) |
 <br/>
 
+### 📜 License & Certification
+| Certificate | Issuer | Date | Credential |
+| :--- | :--- | :---: | :---: |
+| **AWS Certified Solutions Architect – Associate (SAA-C03)** | Amazon Web Services | 2026.08 | [Verify](https://www.credly.com/badges/185aed63-e6f6-4465-ade4-7becfe405ed0) |
+
+<br/>
 
 ### 📚 What I do/did
 
