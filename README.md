@@ -7,6 +7,7 @@
 <a href="mailto:als33396dn@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:als33396dn@gmail.com"/></a>
 <a href="https://www.linkedin.com/in/minwoo-kim-4962a52b6/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=Velog&logoColor=white"></a>
 <a href="https://woocoding0522.tistory.com"><img src="https://img.shields.io/badge/tistory-F24E1E?style=for-the-badge&logo=velog&logoColor=white" /></a>
+<a href="[https://woocoding0522.tistory.com](https://docs.google.com/presentation/d/1f14mHvDJBTe1k58AWZJzeR4V1UbMBFLPdCaESu8BUGc/edit?usp=sharing)"><img src="https://img.shields.io/badge/Portfolio-F4B400?style=for-the-badge&logo=googleslides&logoColor=white" /></a>
 
 </div>
 
